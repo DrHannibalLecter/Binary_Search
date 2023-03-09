@@ -1,0 +1,7 @@
+Binary search, you are asked to find number in at most 10 queries.
+
+Input Format
+The first line contains an integer N denoting the number that you picked.
+The following lines contain 1024 integers including your number N.
+
+https://algoleague.com/problem/an-easy-magic-trick/detail
